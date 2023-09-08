@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
-  <url>https://www.dropbox.com/scl/fi/durdou878h5syynfbjiv4/MakkiPhonerSetup.zip?rlkey=p0ynxmdk3weyg5wqiup1ra0cg&dl=1</url>
+  <version>1.0.0.0</version>
+  <url>https://github.com/Tokariev/xml-version/raw/main/MakkiPhonerSetup.zip</url>
   <changelog></changelog>
   <mandatory>false</mandatory>
 </item>
